@@ -8,4 +8,4 @@ Try something new.
 
 # Applause
 
-Yeyy hurraayyy
+Yeyy hurraayyy.
